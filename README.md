@@ -86,14 +86,14 @@ CNSatMap is the first large-scale, high-precision dataset for bidirectional sate
 ## 🔍 Map-to-Satellite Translation
 
 <p align="center">
-  <img src="vis_CNSatMap.png" alt="rsgcg qualitative">
+  <img src="assets/vis_CNSatMap.png" alt="rsgcg qualitative">
 </p>
 
 ---
 ## 🔍 Satellite-to-Map Translation
 
 <p align="center">
-  <img src="vis_NY.png" alt="rsgcg qualitative">
+  <img src="assets/vis_NY.png" alt="rsgcg qualitative">
 </p>
 
 ---
