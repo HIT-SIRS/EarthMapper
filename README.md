@@ -21,7 +21,7 @@ EarthMapper is a novel autoregressive framework for controllable bidirectional s
 <p align="center">
   <img src="assets/flowchart.svg" alt="GeoPixel Architecture">
 </p>
----
+
 ## 🏆 Contributions  
 - We construct CNSatMap, the first large-scale, high-precision dataset for BSMT, enabling rigorous exploration of cross-modal geographic translation and fostering advancements in urban analytics and automated cartography.
 - We propose EarthMapper, a  AR-based generative framework that unifies GJSA process via multi-scale alignment, achieving superior generative capability and versatility.
