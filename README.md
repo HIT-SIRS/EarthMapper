@@ -19,7 +19,7 @@
 EarthMapper is a novel autoregressive framework for controllable bidirectional satellite–map translation, seamlessly integrating geographic coordinate embeddings with multi-scale feature alignment to achieve region-adaptive, high-fidelity generation. It unifies bidirectional synthesis via a geo-conditioned joint scale autoregression process, enhanced by semantic infusion and key point adaptive guidance for superior visual realism, semantic consistency, and structural coherence.
 
 <p align="center">
-  <img src="assets/flowchart.png" alt="GeoPixel Architecture">
+  <img src="assets/flowchart.svg" alt="GeoPixel Architecture">
 </p>
 ---
 ## 🏆 Contributions  
