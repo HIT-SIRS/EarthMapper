@@ -11,7 +11,7 @@
 ## 📢  Latest Updates 
 
 [//]: # (- **Feb-20-2025**: 🔥 Our model checkpoints are released on **_HuggingFace_** [link]&#40;https://huggingface.co/collections/MBZUAI/geopixel-67b6e1e441250814d06f2043&#41;. )
-- **Apr-27-2025**: 📜 The EarthMapper paper is released at [arxiv link](https://arxiv.org/abs/2501.13925).
+- **Apr-27-2025**: 📜 The EarthMapper paper is released at [arxiv link](https://arxiv.or3925).
 
 [//]: # (🔥🚀📂)
 
@@ -24,7 +24,7 @@ EarthMapper is a novel autoregressive framework for controllable bidirectional s
 
 ## 🏆 Contributions  
 - We construct CNSatMap, the first large-scale, high-precision dataset for BSMT, enabling rigorous exploration of cross-modal geographic translation and fostering advancements in urban analytics and automated cartography.
-- We propose EarthMapper, a  AR-based generative framework that unifies GJSA process via multi-scale alignment, achieving superior generative capability and versatility.
+- We propose EarthMapper, a AR-based generative framework that unifies GJSA process via multi-scale alignment, achieving superior generative capability and versatility.
 - The SI mechanism is designed to enforce feature-level consistency between generated and real images, enhancing semantic fidelity in weakly aligned satellite-map pairs.
 - We introduce KPAG, which intelligently balances diversity and accuracy through key-point anchoring and dynamic complexity modulation, ensuring cartographic precision while preserving realism.
 
