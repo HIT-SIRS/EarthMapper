@@ -11,7 +11,7 @@
 ## 📢  Latest Updates 
 
 [//]: # (- **Feb-20-2025**: 🔥 Our model checkpoints are released on **_HuggingFace_** [link]&#40;https://huggingface.co/collections/MBZUAI/geopixel-67b6e1e441250814d06f2043&#41;. )
-- **Apr-27-2025**: 📜 The EarthMapper paper is released at [arxiv link](https://arxiv.or3925).
+- **Apr-27-2025**: 📜 The EarthMapper paper is released at [arxiv link](https://arxiv.org/abs/2504.19432).
 
 [//]: # (🔥🚀📂)
 
