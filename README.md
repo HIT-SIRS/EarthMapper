@@ -19,12 +19,12 @@
 EarthMapper is a novel autoregressive framework for controllable bidirectional satellite–map translation, seamlessly integrating geographic coordinate embeddings with multi-scale feature alignment to achieve region-adaptive, high-fidelity generation. It unifies bidirectional synthesis via a geo-conditioned joint scale autoregression process, enhanced by semantic infusion and key point adaptive guidance for superior visual realism, semantic consistency, and structural coherence.
 
 <p align="center">
-  <img src="assets/flowchart.png" alt="GeoPixel Architecture">
+  <img src="assets/flowchart.svg" alt="GeoPixel Architecture">
 </p>
 
 ## 🏆 Contributions  
 - We construct CNSatMap, the first large-scale, high-precision dataset for BSMT, enabling rigorous exploration of cross-modal geographic translation and fostering advancements in urban analytics and automated cartography.
-- We propose EarthMapper, a AR-based generative framework that unifies GJSA process via multi-scale alignment, achieving superior generative capability and versatility.
+- We propose EarthMapper, a  AR-based generative framework that unifies GJSA process via multi-scale alignment, achieving superior generative capability and versatility.
 - The SI mechanism is designed to enforce feature-level consistency between generated and real images, enhancing semantic fidelity in weakly aligned satellite-map pairs.
 - We introduce KPAG, which intelligently balances diversity and accuracy through key-point anchoring and dynamic complexity modulation, ensuring cartographic precision while preserving realism.
 
