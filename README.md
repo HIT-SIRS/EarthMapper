@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-[Zhe Dong](https://scholar.google.com/citations?user=6ygNEFsAAAAJ&hl=zh-CN) , Yuzhe Sun, [Tianzhu Liu](https://www.researchgate.net/profile/Tianzhu-Liu-3) , Wangmeng Zuo, [Yanfeng Gu](https://scholar.google.com/citations?user=WHkRZscAAAAJ&hl=zh-TW&oi=ao) 
+[Zhe Dong](https://scholar.google.com/citations?user=6ygNEFsAAAAJ&hl=zh-CN) , [Yuzhe Sun](https://www.researchgate.net/profile/Yuzhe-Sun-10), [Tianzhu Liu](https://www.researchgate.net/profile/Tianzhu-Liu-3) , Wangmeng Zuo, [Yanfeng Gu](https://scholar.google.com/citations?user=WHkRZscAAAAJ&hl=zh-TW&oi=ao) 
 
 **Harbin Institute of Technology**
 
