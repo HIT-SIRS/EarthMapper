@@ -63,6 +63,9 @@ CNSatMap is the first large-scale, high-precision dataset for bidirectional sate
 
 ```bibtex
 @article{dong2025earthmapper,
-
+  title={EarthMapper: Visual Autoregressive Models for Controllable Bidirectional Satellite-Map Translation},
+  author={Dong, Zhe and Sun, Yuzhe and Liu, Tianzhu and Zuo, Wangmeng and Gu, Yanfeng},
+  journal={arXiv preprint arXiv:2504.19432},
+  year={2025}
 }
 ```
